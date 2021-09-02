@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\bin\Debug\HelloWorld_YGAY.exe.config
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\bin\Debug\HelloWorld_YGAY.exe
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\bin\Debug\HelloWorld_YGAY.pdb
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\bin\Debug\HelloWorld_YGAY.xml
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.Form1.resources
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.Resources.resources
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.exe
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.xml
+C:\Users\User\source\repos\HelloWorld_YGAY\HelloWorld_YGAY\obj\Debug\HelloWorld_YGAY.pdb
